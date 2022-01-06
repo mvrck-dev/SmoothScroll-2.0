@@ -13,7 +13,7 @@ First, download the file and extract SmoothScroll-v2.0.js and link it into your 
 
   PARAMETERS:
     -Speed:
-       Values: 1-10   [INTEGER]
+       Values: 1-10   
            Change the value to -ve to set the effect to opposite direction
         -Sample: 
         <div loco-scroll loco-scroll-speed="" class="">
@@ -24,8 +24,8 @@ First, download the file and extract SmoothScroll-v2.0.js and link it into your 
         -Sample: 
         <div loco-scroll loco-scroll-direction="horizontal" class="">
 
-    -You can use multiple parameters at the same time
-        -Sample: 
-        <div loco-scroll loco-scroll-speed="" loco-scroll-direction="horizontal" class="">
+   -You can use multiple parameters at the same time
+       -Sample: 
+       <div loco-scroll loco-scroll-speed="" loco-scroll-direction="horizontal" class="">
 
 ```
