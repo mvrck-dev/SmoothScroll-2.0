@@ -1,7 +1,7 @@
 # SmoothScroll v2.0
 
 Pimp up your webpage's experience by adding smooth locomotion effects in it!
-
+![Ray Concepts - SmoothScroll 2.0 Banner](https://github.com/ray-concepts/SmoothScroll2.0/blob/main/smoothscroll2_banner-1.png?raw=true)
 ## Usage
 First, download the file and extract SmoothScroll-v2.0.js and link it into your page.
 ```
